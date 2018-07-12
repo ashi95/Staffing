@@ -1,0 +1,124 @@
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    display: flex; justify-content: center;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer; 
+    display:block;  
+    vertical-align: middle;
+    text-align: center;
+    margin-left: 750px;
+    width: 150px;
+    height: 35px;
+}
+html{
+    zoom: 0.9; 
+}
+section{
+    background-color: white;
+}
+table{
+    width: 80%;
+     height: 80%;
+    background-color: white;
+}
+input {
+    
+    width:150px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+        height: 25px;
+    
+}
+label,select{
+   
+    font-size:15px;
+    font-family: Arial,helvetica,sans-serif;
+    
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  color:black;
+
+}
+
+
+td ,th{ 
+    text-align: center;
+ border-width:1px;
+ border-style:dotted; 
+ border-color:#d1e0e0;
+ width:30%;
+ 
+ }
+ select
+ {
+     width: 150px;
+     height: 25px;
+     margin-right: 0px;
+     float: left;
+ }
+ 
+
+ #formulaire input[type=submit]{
+     margin-bottom: 6800px;
+   margin-right:400px;
+   display:block;
+   
+   
+ }
+ #formulaire td,th{
+    margin-left: -20px;
+     
+    text-align: left;
+    width: auto;
+    height: auto;
+ border-spacing: 0px; 
+ padding: 0;
+  border-style: none;
+ }
+ #formulaire input[type=date],input[type=text],input[type=number],select,label{
+     float:left;
+     
+     margin-bottom : 30px;
+ }
+ #formulaire table{
+     width: auto;
+     height: auto;
+     margin-top: -90px;
+     margin-left:5%;
+     border-collapse: separate;
+     
+    border-spacing: 10px;
+    border-left:10px;
+   
+    
+ }
+ #formulaire input[type=text],input[type=date],input[type=number],select{
+     width: 150px;
+     height: 30px;
+ }
+     
+ 
+ #formulaire td.last {
+    padding: 0;
+    margin: 0;
+    border: 0;
+  
+    }
+    #select{
+          width: 150px;
+     height: 30px;
+    }
+    #formulaire label{
+        display: inline;
+       margin-left: 130px;
+    }
+    .submit{
+        margin:auto;
+  display:block;
+    }

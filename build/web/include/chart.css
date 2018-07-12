@@ -1,0 +1,23 @@
+.one
+{
+     position: absolute;
+    left: 100px;
+    top: 1150px;
+    background-color: red;
+}
+.container
+{
+    max-height: 300px;
+max-width: 800px;
+position: relative;
+background-color: red;
+}
+#pie-chart1
+{
+   height: 200px;
+width: 600px;
+position: absolute;
+left: 25%;
+top: 25%;
+background-color: red;
+}
